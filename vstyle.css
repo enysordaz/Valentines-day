@@ -21,11 +21,16 @@ body {
     /* This container will hold the images */
 }
 
-#question,
-.title {
+#question {
     font-family: "Hurricane", serif;
     color: #260063;
     font-size: 52px; /* Set font size for the question */
+}
+
+.title {
+    font-family: "Lexend Peta", serif;
+    color: #260063;
+    font-size: 40px;
 }
 
 #options {
