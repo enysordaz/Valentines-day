@@ -24,13 +24,13 @@ body {
 #question {
     font-family: "Hurricane", serif;
     color: #260063;
-    font-size: 52px; /* Set font size for the question */
+    font-size: 70px; /* Set font size for the question */
 }
 
 .title {
     font-family: "Lexend Peta", serif;
     color: #260063;
-    font-size: 40px;
+    font-size: 26px;
 }
 
 #options {
